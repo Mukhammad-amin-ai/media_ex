@@ -1,0 +1,27 @@
+@media screen and (max-width: 992px) { 
+    .container{
+        width: 992px;
+
+    }
+    .nav{
+        flex-direction: column;
+        gap: 10px;
+        padding-top: 40px;
+        
+    }
+    .lleft{
+        width: 100%;
+        height:40%;
+
+    }
+    .lleft p{
+        width: 540px;
+        height:100px;
+        
+    }
+    .rright{
+        display: none;
+    }
+    
+}
+
